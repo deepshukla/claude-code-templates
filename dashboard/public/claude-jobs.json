@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T05:41:45.381432+00:00",
-  "totalJobs": 103,
+  "lastUpdated": "2026-07-22T05:40:47.973811+00:00",
+  "totalJobs": 94,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -215,27 +215,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "hn-48823535",
-      "company": "Youth Inc.",
-      "position": "Senior Software Engineer",
-      "location": "On-site",
-      "remote": false,
-      "salary": "$120k–$190k",
-      "description": "We’re a venture-backed e-commerce marketplace and media network for youth and high school sports. We’ve moved from zero to one with real revenue and are now looking for a Senior Engineer to help us scale to serve the 65M American families in this space. Our Stack: Elixir/Phoenix (LiveView),...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48823535",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48823535",
-      "postedAt": "2026-07-07T20:48:44+00:00",
-      "tags": [
-        "Next.js",
-        "Rust",
-        "PostgreSQL",
-        "AWS",
-        "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48819370",
       "company": "Rabbet (YC S17)",
       "position": "Software Engineer",
@@ -331,27 +310,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48761457",
-      "company": "Runway",
-      "position": "Trust & Safety Engineer",
-      "location": "London / NYC / SF / Seattle / Remote (US + Europe)",
-      "remote": true,
-      "salary": "",
-      "description": "We're hiring a Trust & Safety Engineer to join Runway's AI Safety and Responsibility team. Runway builds AI world models - general-purpose simulators for robotics, science, and storytelling — and this role exists to keep that safe as it reaches millions of users. Stack: TypeScript API on...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48761457",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48761457",
-      "postedAt": "2026-07-02T13:39:37+00:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
-        "AWS",
-        "GCP"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48756639",
       "company": "Dashdoc",
       "position": "Software Engineer",
@@ -389,27 +347,6 @@
       "sourceUrl": "https://news.ycombinator.com/item?id=48754933",
       "postedAt": "2026-07-02T00:34:57+00:00",
       "tags": [
-        "Rust",
-        "PostgreSQL"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48754582",
-      "company": "Obsidian Security",
-      "position": "Staff Software Engineer",
-      "location": "Philadelphia or Palo Alto",
-      "remote": false,
-      "salary": "$176k-$196k",
-      "description": "We secure the SaaS apps companies actually run on: M365, Salesforce, and hundreds more. You’d be on the Threat product team working full-stack. That means browser extension code (content/background scripts, manifest v3, message passing), backend services chewing through millions of events, and the...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48754582",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48754582",
-      "postedAt": "2026-07-01T23:41:42+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Python",
         "Rust",
         "PostgreSQL"
       ],
@@ -1009,23 +946,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-48366911",
-      "company": "TrashLab",
-      "position": "Software Engineer",
-      "location": "Full-time SF Hybrid",
-      "remote": false,
-      "salary": "",
-      "description": "We are building the agentic operating system for waste collection and processing companies across the US. Join our team as a product manager or product engineer and own products end-to-end, working alongside a fully AI native team. Apply at our careers page or email john@trashlab.io with a resume...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48366911",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48366911",
-      "postedAt": "2026-06-02T06:56:32+00:00",
-      "tags": [
-        "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-48365092",
       "company": "Opaxa",
       "position": "Full-Stack Engineer",
@@ -1079,27 +999,6 @@
         "PostgreSQL",
         "Claude Code",
         "Flask"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48361574",
-      "company": "Obsidian Security",
-      "position": "Staff Software Engineer",
-      "location": "REMOTE (US)",
-      "remote": true,
-      "salary": "$176k-$196k",
-      "description": "We secure the SaaS apps companies actually run on: M365, Salesforce, and hundreds more. You’d be on the Threat product team working full-stack. That means browser extension code (content/background scripts, manifest v3, message passing), backend services chewing through millions of events, and the...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48361574",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48361574",
-      "postedAt": "2026-06-01T19:36:50+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Python",
-        "Rust",
-        "PostgreSQL"
       ],
       "companyIcon": ""
     },
@@ -1165,26 +1064,6 @@
         "Supabase",
         "Claude Code",
         "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-48358702",
-      "company": "Authorium",
-      "position": "Senior Full-Stack Engineer",
-      "location": "San Francisco, CA",
-      "remote": false,
-      "salary": "$148k-230k",
-      "description": "We're building the operating system for the digital infrastructure of government. Authorium is a GovTech SaaS platform that unifies the messy, high-stakes workflows (procurement, grants, budgeting) that keep state and local governments running. We replace fragmented docs, spreadsheets and...",
-      "applyUrl": "https://news.ycombinator.com/item?id=48358702",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=48358702",
-      "postedAt": "2026-06-01T16:05:17+00:00",
-      "tags": [
-        "Next.js",
-        "Claude Code",
-        "Ruby",
-        "Rails"
       ],
       "companyIcon": ""
     },
@@ -1449,27 +1328,6 @@
       "companyIcon": ""
     },
     {
-      "id": "hn-47999884",
-      "company": "Kepler",
-      "position": "Full Stack Engineer",
-      "location": "New York, NY (Remote)",
-      "remote": true,
-      "salary": "$230K-$260K",
-      "description": "We're building the trust layer for AI in high-stakes industries. https://kepler.ai LLMs hallucinate, so they can't be the thing producing your numbers. In Kepler, the LLM orchestrates (decides what data to gather, what to compute, how to structure the output), but the model never touches the data...",
-      "applyUrl": "https://news.ycombinator.com/item?id=47999884",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=47999884",
-      "postedAt": "2026-05-03T18:28:34+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "Rust",
-        "PostgreSQL",
-        "AWS"
-      ],
-      "companyIcon": ""
-    },
-    {
       "id": "hn-47985407",
       "company": "Axis Communications",
       "position": "Software Engineer",
@@ -1536,43 +1394,6 @@
       "tags": [
         "Python",
         "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-47978937",
-      "company": "Railway",
-      "position": "Senior Infra Engineer",
-      "location": "REMOTE (Worldwide)",
-      "remote": true,
-      "salary": "",
-      "description": "Do you feel scared and alone when opening the AWS console? Do you wish you could just tell Claude to manage your infra, and it would just work? Do you dream of a future where software is abundant and developers and normies alike are free to build their wildest dreams? We're Railway, and we think...",
-      "applyUrl": "https://news.ycombinator.com/item?id=47978937",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=47978937",
-      "postedAt": "2026-05-01T19:17:50+00:00",
-      "tags": [
-        "AWS"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-47977662",
-      "company": "Form AI",
-      "position": "AI Engineer",
-      "location": "REMOTE (US) / Austin",
-      "remote": true,
-      "salary": "$150k-$220k",
-      "description": "Form is an AI fluency/integration startup for executives & their teams. We build AI applications tailored to how clients work, and need an engineer to do the building. A typical engagement starts with a client describing a workflow eating their week. You scope alongside them, then build something...",
-      "applyUrl": "https://news.ycombinator.com/item?id=47977662",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=47977662",
-      "postedAt": "2026-05-01T17:40:29+00:00",
-      "tags": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Python"
       ],
       "companyIcon": ""
     },
